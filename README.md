@@ -48,5 +48,3 @@ Translation menerjemahkan teks dari satu bahasa ke bahasa lain. Contoh ini menun
 2. Pastikan Anda memiliki Python dan library Transformers terinstal atau untuk lebih mudahnya bisa gunakan Google Collab.
 3. Jalankan skrip di dalam direktori proyek untuk melihat hasil analisis.
 
-## Lisensi
-Proyek ini dilisensikan di bawah MIT License. Lihat file LICENSE untuk detail lebih lanjut.
