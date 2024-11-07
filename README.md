@@ -12,35 +12,35 @@ Proyek ini berisi analisis tentang berbagai teknik Natural Language Processing (
 ## Daftar Isi
 - [1. Zero-Shot Classification](#zero-shot-classification)
 - [2. Text Generation](#text-generation)
-- [3. Fill-Mask](#fill-mask)
+- [3. Fill Mask](#fill-mask)
 - [4. Named Entity Recognition (NER)](#named-entity-recognition-ner)
-- [5. Question-Answering](#question-answering)
+- [5. Question Answering](#question-answering)
 - [6. Sentiment Analysis](#sentiment-analysis)
 - [7. Summarization](#summarization)
 - [8. Translation](#translation)
 
-## 1. Zero-Shot Classification
+## Zero-Shot Classification
 Zero-shot classification adalah metode yang memungkinkan model untuk mengidentifikasi teks ke dalam kategori yang belum dikenali sebelumnya, berdasar pada konteks dan label kandidat yang relevan. Pada contoh yang telah dibuat, model klasifikasi zero-shot berhasil menentukan kategori yang paling relevan dengan konten teks meski kategori tersebut tidak dilatih secara spesifik sebelumnya. Contohnya, model mampu mengidentifikasi bahwa tema mengenai kecerdasan buatan berhubungan dengan "teknologi" atau bahwa diskusi tentang perubahan iklim sejalan dengan label "pemanasan global." Dengan demikian, model ini mampu secara adaptif menentukan label yang paling akurat tanpa memerlukan pelatihan tambahan, sehingga ideal untuk situasi yang memerlukan klasifikasi yang cepat dan fleksibel.
 
-## 2. Text Generation
+## Text Generation
 Text generation menciptakan teks baru berdasarkan input yang diberikan. Dengan menggunakan model yang berbeda, contoh ini menunjukkan kemampuan model untuk menghasilkan kalimat yang relevan dan kreatif, menyoroti fleksibilitas dalam menghasilkan konten.
 
-## 3. Fill-Mask
+## Fill Mask
 Fill-mask digunakan untuk memprediksi kata yang hilang dalam sebuah kalimat. Dalam analisis ini, model dapat dengan tepat mengisi kata yang hilang berdasarkan konteks kalimat, menunjukkan pemahaman model terhadap struktur bahasa.
 
-## 4. Named Entity Recognition (NER)
+## Named Entity Recognition (NER)
 NER mengidentifikasi dan mengklasifikasikan entitas dalam teks. Contoh ini menunjukkan bagaimana model dapat mengenali nama orang, tempat, dan organisasi dalam kalimat, sangat berguna dalam analisis data teks.
 
-## 5. Question-Answering
+## Question Answering
 Question-answering memungkinkan pengguna untuk mendapatkan jawaban atas pertanyaan berdasarkan konteks yang diberikan. Dua contoh menunjukkan kemampuan model untuk menjawab pertanyaan dengan akurat, mendemonstrasikan penerapan dalam bidang pendidikan dan kesehatan.
 
-## 6. Sentiment Analysis
+## Sentiment Analysis
 Sentiment analysis mengidentifikasi emosi dalam teks, seperti positif, negatif, atau netral. Analisis menunjukkan bagaimana model dapat mengenali dan mengklasifikasikan perasaan dalam kalimat secara otomatis.
 
-## 7. Summarization
+## Summarization
 Summarization menghasilkan ringkasan dari teks panjang, menjaga informasi penting. Dalam contoh ini, model berhasil merangkum dampak AI pada berbagai sektor, memberikan pandangan singkat yang berguna.
 
-## 8. Translation
+## Translation
 Translation menerjemahkan teks dari satu bahasa ke bahasa lain. Contoh ini menunjukkan bagaimana model dapat menerjemahkan kalimat dari bahasa Prancis ke bahasa Inggris dengan akurasi yang tinggi.
 
 ## Cara Menggunakan
