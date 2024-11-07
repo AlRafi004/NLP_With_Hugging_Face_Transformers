@@ -20,7 +20,7 @@ Proyek ini berisi analisis tentang berbagai teknik Natural Language Processing (
 - [8. Translation](#translation)
 
 ## 1. Zero-Shot Classification
-Zero-shot classification adalah teknik yang memungkinkan model untuk mengklasifikasikan teks ke dalam kategori yang belum pernah dilihat sebelumnya. Dalam contoh ini, model berhasil mengidentifikasi sentimen negatif dari teks yang menyatakan ketidakpuasan terhadap layanan restoran.
+Zero-shot classification adalah metode yang memungkinkan model untuk mengidentifikasi teks ke dalam kategori yang belum dikenali sebelumnya, berdasar pada konteks dan label kandidat yang relevan. Pada contoh yang telah dibuat, model klasifikasi zero-shot berhasil menentukan kategori yang paling relevan dengan konten teks meski kategori tersebut tidak dilatih secara spesifik sebelumnya. Contohnya, model mampu mengidentifikasi bahwa tema mengenai kecerdasan buatan berhubungan dengan "teknologi" atau bahwa diskusi tentang perubahan iklim sejalan dengan label "pemanasan global." Dengan demikian, model ini mampu secara adaptif menentukan label yang paling akurat tanpa memerlukan pelatihan tambahan, sehingga ideal untuk situasi yang memerlukan klasifikasi yang cepat dan fleksibel.
 
 ## 2. Text Generation
 Text generation menciptakan teks baru berdasarkan input yang diberikan. Dengan menggunakan model yang berbeda, contoh ini menunjukkan kemampuan model untuk menghasilkan kalimat yang relevan dan kreatif, menyoroti fleksibilitas dalam menghasilkan konten.
