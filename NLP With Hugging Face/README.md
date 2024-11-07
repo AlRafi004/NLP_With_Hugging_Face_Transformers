@@ -7,8 +7,9 @@
 ============================================================================================
 
 ## Deskripsi
+<p align="justify">
 Proyek ini berisi analisis tentang berbagai teknik Natural Language Processing (NLP) yang digunakan dalam pemodelan bahasa menggunakan library Transformers dari Hugging Face. Teknik yang dianalisis meliputi klasifikasi zero-shot, pembuatan teks, pengisian kata yang hilang (fill-mask), pengenalan entitas bernama (NER), menjawab pertanyaan (question-answering), analisis sentimen, ringkasan (summarization), dan terjemahan (translation).
-
+</p>
 ============================================================================================
 </div>
 
