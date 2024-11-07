@@ -20,7 +20,7 @@ Proyek ini berisi analisis tentang berbagai teknik Natural Language Processing (
 - [7. Summarization](#summarization)
 - [8. Translation](#translation)
 
-============================================================================================
+==================================================================================
 
 ## Zero-Shot Classification
 <p align="justify">
