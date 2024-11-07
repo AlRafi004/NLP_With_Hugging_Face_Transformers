@@ -71,7 +71,8 @@ Translation menerjemahkan teks dari satu bahasa ke bahasa lain. Contoh ini menun
 ===========================================================================
 
 ## Cara Menggunakan
+<p align="justify">
 1. Clone repositori ini ke komputer Anda.
 2. Pastikan Anda memiliki Python dan library Transformers terinstal atau untuk lebih mudahnya bisa gunakan Google Collab.
 3. Jalankan skrip di dalam direktori proyek untuk melihat hasil analisis.
-
+</p>
